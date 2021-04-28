@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ISpyAFake.dir/main.cpp.o CMakeFiles/ISpyAFake.dir/Player.cpp.o CMakeFiles/ISpyAFake.dir/Category.cpp.o CMakeFiles/ISpyAFake.dir/CategoryAssignment.cpp.o  -o ISpyAFake 

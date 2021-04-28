@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/annieliang/CLionProjects/ISpyAFake/Category.h
+vector
+-
+string
+-
+CategoryItem.h
+/Users/annieliang/CLionProjects/ISpyAFake/CategoryItem.h
+
+/Users/annieliang/CLionProjects/ISpyAFake/CategoryAssignment.h
+vector
+-
+Category.h
+/Users/annieliang/CLionProjects/ISpyAFake/Category.h
+Player.h
+/Users/annieliang/CLionProjects/ISpyAFake/Player.h
+
+/Users/annieliang/CLionProjects/ISpyAFake/CategoryItem.h
+string
+-
+
+/Users/annieliang/CLionProjects/ISpyAFake/Player.h
+string
+-
+
+/Users/annieliang/CLionProjects/ISpyAFake/main.cpp
+iostream
+-
+map
+-
+Category.h
+/Users/annieliang/CLionProjects/ISpyAFake/Category.h
+Player.h
+/Users/annieliang/CLionProjects/ISpyAFake/Player.h
+CategoryAssignment.h
+/Users/annieliang/CLionProjects/ISpyAFake/CategoryAssignment.h
+

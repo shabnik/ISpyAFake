@@ -1,0 +1,103 @@
+* {
+    font-family: sans-serif;
+}
+.categoryPage {
+    text-align: center;
+}
+
+.purpleButtons, .greenButtons, .leaveGameButton, .votingButtons {
+    background-color: #4f2682e3;
+    cursor: pointer;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.purpleButtons:hover, .votingButtons:hover {
+    background-color: #4f2682;
+}
+
+.leaveGameButton {
+    background: #de4d4d;
+}
+
+.leaveGameButton:hover {
+    background: #ca3d3d;
+}
+
+.purpleButtons:hover, .votingButtons:hover {
+    background-color: #4f2682;
+}
+
+.votingButtons {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.greenButtons {
+    background: #26ca3a;
+}
+
+.greenButtons:hover {
+    background: #2ab53b;
+}
+
+.refreshButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: grey;
+}
+
+.playerList {
+    background: #FFF0DE;
+    padding: 5px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.error {
+    color: #de4d4d;
+    font-size: 12px;
+}
+
+.locationsContainer::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.locationsContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.locationItem {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    flex: 1;
+}
+
+.mainPage {
+	text-align: center;
+}
+
+.mainHeader {
+    padding: 10px;
+    text-align: center;
+    background-color: #4f2682e3;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+.enterBox{
+  border-collapse: separate;
+  border-spacing: 15px;
+}
+
