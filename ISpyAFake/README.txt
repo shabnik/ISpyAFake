@@ -4,8 +4,7 @@ I Spy a Fake is a multiplayer web application that runs on a local web server (r
 
 ## Usage
 
-In order to run this application, the user needs Raspberry Pi Desktop on Oracle VM VirtualBox Manager. Make sure
-to unzip group58 in /usr/lib/cgi-bin
+In order to run this application, the user needs Raspberry Pi Desktop on Oracle VM VirtualBox Manager.
 
 Before starting the Raspberry Pi, go into Settings -> Network and set Attached to: Bridged Adapter.
 
